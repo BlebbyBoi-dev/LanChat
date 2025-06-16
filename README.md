@@ -2,7 +2,7 @@
 
 **LAN Chat. Class Clans. Knowledge Wars.**
 
-Signal Clash is a PC-based local chat and education gamification platform designed for schools, LAN parties, and rebellious knowledge-seekers. Connect to people over Wi-Fi, form rooms, create clans, and battle for brainpower — all without needing the internet.
+Lanchat is a PC-based local chat and education gamification platform designed for schools, LAN parties, and rebellious knowledge-seekers. Connect to people over Wi-Fi, form rooms, create clans, and battle for brainpower — all without needing the internet.
 
 ## 🔧 Features
 
