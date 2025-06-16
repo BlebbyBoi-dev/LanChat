@@ -38,5 +38,10 @@ Signal Clash is a PC-based local chat and education gamification platform design
 4. Teachers can activate **Knowledge Clash Mode**.
 5. Start competing, chatting, and dominating the local leaderboard.
 
-## 📂 Project Structure
-
+## How to Build
+1. Download GODOT
+2. Create a new project
+3. import the .TSCN files
+4. Press F5
+5. Press select and choose Discovery.tscn
+6. kaboom it works
