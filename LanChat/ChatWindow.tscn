@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://ls8skh3er8le"]
+
+[node name="ChatWindow" type="Node2D"]
